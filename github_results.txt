@@ -1,0 +1,19 @@
+Network Analysis Results — GitHub Social Network
+=======================================================
+Total Nodes          : 12
+Total Edges          : 30
+Average Degree       : 5.0000
+Graph Density        : 0.4545
+Avg Clustering Coeff : 0.7222
+Communities Detected : 1
+
+Top 5 Influential Nodes (by Degree Centrality):
+---------------------------------------------
+  1. tj — degree=6, centrality=0.5455
+  2. sindresorhus — degree=6, centrality=0.5455
+  3. nickvdyck — degree=6, centrality=0.5455
+  4. addyosmani — degree=6, centrality=0.5455
+  5. dhh — degree=6, centrality=0.5455
+
+Communities (Label: Members):
+  Community 2: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]

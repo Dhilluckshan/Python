@@ -1,0 +1,11 @@
+Cross-Network Comparison
+=======================================================
+Metric                             Facebook       GitHub
+-------------------------------------------------------
+Total Nodes                              24           12
+Total Edges                              45           30
+Average Degree                         3.75          5.0
+Graph Density                         0.163       0.4545
+Avg Clustering Coeff                 0.3202       0.7222
+Communities Found                         1            1
+Largest Community                        24           12
